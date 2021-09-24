@@ -11,10 +11,13 @@ fn main() -> Result<(), Error> {
     }
 
     // First trans
-    let t = get_first_transaction_for("test_data/transactions.json", "Matt");
-    match t {
-        Ok(v) => println!("Found transaction: {:?}", v),
-        Err(e) => println!("Error: {}, Backtrace: {}", e, e.backtrace()),
-    }    
+    let _t = get_first_transaction_for("test_data/transactions.json", "Matt")?;
+
+    // traditional match combinator for error handling
+    // now can be avoided as we are using the failure crate and "?"
+    // match t {
+    //     Ok(v) => println!("Found transaction: {:?}", v),
+    //     Err(e) => println!("Error: {}, Backtrace: {}", e, e.backtrace()),
+    // }    
     Ok(())
 }
