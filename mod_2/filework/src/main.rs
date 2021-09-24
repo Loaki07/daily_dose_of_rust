@@ -11,7 +11,8 @@ fn main() -> Result<(), Error> {
     }
 
     // First trans
-    let _t = get_first_transaction_for("test_data/transactions.json", "Matt")?;
+    let t = get_first_transaction_for("test_data/transactions.json", "Matt")?;
+    println!("get_first_trasaction_for: {:?}", t);
 
     // traditional match combinator for error handling
     // now can be avoided as we are using the failure crate and "?"
