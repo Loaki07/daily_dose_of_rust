@@ -1,10 +1,12 @@
 mod generic_type_paramenters;
 mod iterator_trait;
 mod methods_with_the_same_name;
+mod super_traits;
 
 use generic_type_paramenters::*;
 use iterator_trait::*;
 use methods_with_the_same_name::*;
+use super_traits::*;
 
 fn main() {
     println!("advanced traits rust!");
@@ -29,8 +31,10 @@ fn main() {
     // Wizard ::fly(&person);
 
     // calling the struct by the type
-    // which uses associated functions
     // Human::fly();
     // <Human as Pilot>::fly();
     // <Human as Wizard>::fly();
+ 
+    // super traits
+    // SecondPoint{x: 1, y: 2}.outline_print();
 }
