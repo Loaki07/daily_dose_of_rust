@@ -13,6 +13,9 @@ use new_type_pattern::*;
 fn main() {
     println!("advanced traits rust!");
 
+    // let mut x = Counter{};
+    // let y: u128 = x.next().unwrap();
+
     // assert_eq!(
     //     Point { x: 1, y: 0 } + Point { x: 2, y: 3 },
     //     Point { x: 3, y: 3 }
