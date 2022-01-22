@@ -10,7 +10,7 @@ Exploring Rust Core Concepts
 	- Custom Error handler for applications
 	- Folder structuring into libs and modules
 	- Error handling using the failure crate
-3 mod_3:
+3. mod_3:
 	- basic traits
 	- advanced traits
 	- basic iterator & iterator generics
