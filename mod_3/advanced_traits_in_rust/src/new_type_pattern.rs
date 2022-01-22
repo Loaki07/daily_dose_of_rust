@@ -6,7 +6,7 @@ use std::fmt;
 // the trait of pattern is defined within our crate
 
 // the new type pattern allows us to get around 
-// this restriction by creatin a tupe struct with one
+// this restriction by creating a tuple struct with one
 // field which is going to be the type we are wrapping
 // this this wrapper is local to our crate
 // so we can implement a new trait for it

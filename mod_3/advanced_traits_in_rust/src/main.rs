@@ -1,14 +1,14 @@
-mod iterator_trait;
 mod generic_type_paramenters;
+mod iterator_trait;
 mod methods_with_the_same_name;
-mod super_traits;
 mod new_type_pattern;
+mod super_traits;
 
-use iterator_trait::*;
 use generic_type_paramenters::*;
+use iterator_trait::*;
 use methods_with_the_same_name::*;
-use super_traits::*;
 use new_type_pattern::*;
+use super_traits::*;
 
 fn main() {
     println!("advanced traits rust!");
@@ -39,7 +39,7 @@ fn main() {
     // Human::fly();
     // <Human as Pilot>::fly();
     // <Human as Wizard>::fly();
- 
+
     // super traits
     // SecondPoint{x: 1, y: 2}.outline_print();
 
