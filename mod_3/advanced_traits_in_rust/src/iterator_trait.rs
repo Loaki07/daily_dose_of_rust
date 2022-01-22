@@ -20,7 +20,7 @@ impl Iterator for Counter {
     }
 }
 
-/// will throw error for confliction implementations
+// will throw error for confliction implementations
 // impl Iterator for Counter {
 //     type Item = u16;
 
@@ -29,7 +29,7 @@ impl Iterator for Counter {
 //     }
 // }
 
-/// implementing generics to implement the generic type
+// implementing generics to implement the generic type
 // pub trait Iterator<T> {
 //     fn next(&mut self) -> Option<T>;
 // }
