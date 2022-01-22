@@ -7,8 +7,14 @@ use generic_type_paramenters::*;
 
 fn main() {
     println!("advanced traits rust!");
-    assert_eq!(
-        Point { x: 1, y: 0 } + Point { x: 2, y: 3 },
-        Point { x: 3, y: 3 }
-    );
+
+    // assert_eq!(
+    //     Point { x: 1, y: 0 } + Point { x: 2, y: 3 },
+    //     Point { x: 3, y: 3 }
+    // );
+
+    // assert_eq!(
+    //     Millimeters(1000) + (Meters(1)),
+    //     Millimeters(2000)
+    // );
 }
