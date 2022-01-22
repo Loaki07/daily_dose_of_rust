@@ -1,11 +1,11 @@
-mod generic_type_paramenters;
 mod iterator_trait;
+mod generic_type_paramenters;
 mod methods_with_the_same_name;
 mod super_traits;
 mod new_type_pattern;
 
-use generic_type_paramenters::*;
 use iterator_trait::*;
+use generic_type_paramenters::*;
 use methods_with_the_same_name::*;
 use super_traits::*;
 use new_type_pattern::*;
@@ -41,6 +41,6 @@ fn main() {
     // SecondPoint{x: 1, y: 2}.outline_print();
 
     // new_type_pattern
-    let w = Wrapper(vec![String::from("hello"), String::from("world")]);
-    println!("w = {}", w);
+    // let w = Wrapper(vec![String::from("hello"), String::from("world")]);
+    // println!("w = {}", w);
 }
