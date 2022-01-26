@@ -7,3 +7,6 @@
 5. function calls of traits having the same name
 6. super traits
 7. new type patters and wrappers
+8. trait bounds
+9. finding largest using traits
+10. conditionally implement methods & blanket implementations
