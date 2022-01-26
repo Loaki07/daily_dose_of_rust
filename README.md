@@ -18,3 +18,5 @@ Exploring Rust Core Concepts
 	- function calls of traits having the same name
 	- super traits
 	- new type patters and wrappers
+4. mod_4:
+	- guessing game using basic rust
