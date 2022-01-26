@@ -20,3 +20,5 @@ Exploring Rust Core Concepts
 	- new type patters and wrappers
 4. mod_4:
 	- guessing game using basic rust
+5. mod_5:
+	- Rust Ownership
