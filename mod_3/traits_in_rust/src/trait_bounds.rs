@@ -51,3 +51,27 @@ pub fn returns_summarizable() -> impl Summary {
         retweet: false,
     }
 }
+
+// this will throw an error as you cannot return different types
+// error: if and else have incompatiable types
+// this is solved in the module conditionally implement methods
+// pub fn returns_summarizable_conditions(switch: bool) -> impl Summary {
+//     if switch {
+//         Tweet {
+//             username: String::from("horse_ebooks"),
+//             content: String::from("of course, as you probably already know, people"),
+//             reply: false,
+//             retweet: false,
+//         }
+//     } else {
+//         NewsArticle {
+//             headline: String::from("Penguins win the Stanley Cup Championship!"),
+//             location: String::from("Pittsburgh, PA, USA"),
+//             author: String::from("Iceburgh"),
+//             content: String::from(
+//                 "The Pittsburgh Penguins once again are the best \
+//              hockey team in the NHL.",
+//             ),
+//         }
+//     }
+// }
