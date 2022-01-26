@@ -1,6 +1,8 @@
 mod basic_trait;
+mod trait_bounds;
 
 use basic_trait::*;
+use trait_bounds::*;
 
 fn main() {
     println!("basic_trait in rust!");
@@ -25,4 +27,6 @@ fn main() {
     };
 
     println!("New article available! {}", article.summarize());
+
+    notify(&article);
 }
