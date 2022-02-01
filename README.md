@@ -22,3 +22,5 @@ Exploring Rust Core Concepts
 	- guessing game using basic rust
 5. mod_5:
 	- Rust Ownership
+6. mod_6:
+	- Hashmap `entry` & `or_insert`
