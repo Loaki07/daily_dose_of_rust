@@ -24,3 +24,5 @@ Exploring Rust Core Concepts
 	- Rust Ownership
 6. mod_6:
 	- Hashmap `entry` & `or_insert`
+7. mod_7:
+	- Http requests in rust
