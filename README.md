@@ -26,3 +26,8 @@ Exploring Rust Core Concepts
 	- Hashmap `entry` & `or_insert`
 7. mod_7:
 	- Http requests in rust
+8. mod_8:
+	- Real time chat app using rocket
+	- rocket State request guard
+	- rocket::tokio
+	- stream handlers
