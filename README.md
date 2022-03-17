@@ -31,3 +31,7 @@ Exploring Rust Core Concepts
 	- rocket State request guard
 	- rocket::tokio
 	- stream handlers
+9. mod_9:
+	- Rust combinators
+	- functional programming
+	- iter, map, flatten, filter, collect 
