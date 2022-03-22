@@ -1,6 +1,7 @@
 mod map;
 mod filter;
 mod consuming_adaptors;
+mod fold;
 
 fn main() {
     println!("Rust Functional Programming!");
@@ -9,5 +10,7 @@ fn main() {
 
     // filter::test_filter();
 
-    consuming_adaptors::test_consuming_adaptors();
+    // consuming_adaptors::test_consuming_adaptors();
+
+    fold::test_fold();
 }
