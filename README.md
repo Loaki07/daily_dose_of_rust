@@ -35,3 +35,7 @@ Exploring Rust Core Concepts
 	- Rust combinators
 	- functional programming
 	- iter, map, flatten, filter, collect 
+10. mod_10:
+    - iter()
+    - into_iter()
+    - iter_mut()
