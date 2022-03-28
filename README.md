@@ -41,3 +41,7 @@ Exploring Rust Core Concepts
     - iter()
     - into_iter()
     - iter_mut()
+11. mod_11:
+	- idomatic rust - constructors
+	- private struct fields
+	- derive-new crate for constructor macro
