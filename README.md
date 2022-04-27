@@ -45,3 +45,9 @@ Exploring Rust Core Concepts
 	- idomatic rust - constructors
 	- private struct fields
 	- derive-new crate for constructor macro
+12. mod_12:
+	- json_parsing using rust
+	- serde
+	- serde_json
+	- reqwest
+	- async tokio
