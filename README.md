@@ -51,3 +51,5 @@ Exploring Rust Core Concepts
 	- serde_json
 	- reqwest
 	- async tokio
+13. mod_13:
+	- gRpc payments server and client using rust
