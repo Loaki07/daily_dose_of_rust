@@ -7,5 +7,9 @@
 5. static lifetimes
 
 ```
-cargo run
+rustc <filename>
+
+& 
+
+./<filename>
 ```
