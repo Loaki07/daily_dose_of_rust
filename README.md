@@ -55,3 +55,6 @@ Exploring Rust Core Concepts
 	- gRpc payments server and client using rust
 14. mod_14: Common Programming Concepts
     - Mutability, Variable, Copying & Cloning
+15. mod_15: Effective Memory Handling
+    - self, &self, &mut self, mut self
+    - reference pointers & mutable reference pointers
