@@ -53,3 +53,5 @@ Exploring Rust Core Concepts
 	- async tokio
 13. mod_13:
 	- gRpc payments server and client using rust
+14. mod_14: Common Programming Concepts
+    - Mutability, Variable, Copying & Cloning
