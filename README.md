@@ -63,3 +63,4 @@ Exploring Rust Core Concepts
     - static lifetimes
 16. mod_16: Sorting Algorithms and Algorithm Complexity
 	- bubble_sort
+	- divide and conquer with merge sort
