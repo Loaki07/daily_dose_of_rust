@@ -58,3 +58,6 @@ Exploring Rust Core Concepts
 15. mod_15: Effective Memory Handling
     - self, &self, &mut self, mut self
     - reference pointers & mutable reference pointers
+    - heap memory, box, vec
+    - str and String
+    - static lifetimes
