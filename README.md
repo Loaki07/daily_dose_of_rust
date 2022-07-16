@@ -61,3 +61,5 @@ Exploring Rust Core Concepts
     - heap memory, box, vec
     - str and String
     - static lifetimes
+16. mod_16: Sorting Algorithms and Algorithm Complexity
+	- bubble_sort
