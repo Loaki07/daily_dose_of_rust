@@ -64,3 +64,5 @@ Exploring Rust Core Concepts
 16. mod_16: Sorting Algorithms and Algorithm Complexity
 	- bubble_sort
 	- divide and conquer with merge sort
+17. mod_17: Linked Lists and Binary Trees
+    - Binary Trees
