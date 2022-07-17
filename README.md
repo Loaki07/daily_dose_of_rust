@@ -66,3 +66,4 @@ Exploring Rust Core Concepts
 	- divide and conquer with merge sort
 17. mod_17: Linked Lists and Binary Trees
     - Binary Trees
+	- Balanced Binary Tree
