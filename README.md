@@ -3,68 +3,69 @@
 Exploring Rust Core Concepts
 
 1. mod_1: 
-	- Futures
-	- Streams
-	- TCP Socker Listener using Tokio
+   1. Futures
+   2. Streams
+   3. TCP Socker Listener using Tokio
 2. mod_2: 
-	- Custom Error handler for applications
-	- Folder structuring into libs and modules
-	- Error handling using the failure crate
+   1. Custom Error handler for applications
+   2. Folder structuring into libs and modules
+   3. Error handling using the failure crate
 3. mod_3:
-	- basic traits
-	- advanced traits
-	- basic iterator & iterator generics
-	- generic default types & operators
-	- function calls of traits having the same name
-	- super traits
-	- new type patters and wrappers
+   1. basic traits
+   2. advanced traits
+   3. basic iterator & iterator generics
+   4. generic default types & operators
+   5. function calls of traits having the same name
+   6. super traits
+   7. new type patters and wrappers
 4. mod_4:
-	- guessing game using basic rust
+   1. guessing game using basic rust
 5. mod_5:
-	- Rust Ownership
+   1. Rust Ownership
 6. mod_6:
-	- Hashmap `entry` & `or_insert`
+   1. Hashmap `entry` & `or_insert`
 7. mod_7:
-	- Http requests in rust
+   1. Http requests in rust
 8. mod_8:
-	- Real time chat app using rocket
-	- rocket State request guard
-	- rocket::tokio
-	- stream handlers
+   1. Real time chat app using rocket
+   2. rocket State request guard
+   3. rocket::tokio
+   4. stream handlers
 9. mod_9:
-	- Rust combinators
-	- functional programming
-	- iter, map, flatten, filter, collect 
-    - iterator adaptor: filter, map
-	- consuming adaptor: sum, max, fold
+   1. Rust combinators
+   2. functional programming
+   3. iter, map, flatten, filter, collect 
+   4. iterator adaptor: filter, map
+   5. consuming adaptor: sum, max, fold
 10. mod_10:
-    - iter()
-    - into_iter()
-    - iter_mut()
+   1. iter()
+   2. into_iter()
+   3. iter_mut()
 11. mod_11:
-	- idomatic rust - constructors
-	- private struct fields
-	- derive-new crate for constructor macro
+   1. idomatic rust - constructors
+   2. private struct fields
+   3. derive-new crate for constructor macro
 12. mod_12:
-	- json_parsing using rust
-	- serde
-	- serde_json
-	- reqwest
-	- async tokio
+    1. json_parsing using rust
+    2. serde
+    3. serde_json
+    4. reqwest
+    5. async tokio
 13. mod_13:
-	- gRpc payments server and client using rust
+    1. gRpc payments server and client using rust
 14. mod_14: Common Programming Concepts
-    - Mutability, Variable, Copying & Cloning
+    1. Mutability, Variable, Copying & Cloning
 15. mod_15: Effective Memory Handling
-    - self, &self, &mut self, mut self
-    - reference pointers & mutable reference pointers
-    - heap memory, box, vec
-    - str and String
-    - static lifetimes
+    1. self, &self, &mut self, mut self
+    2. reference pointers & mutable reference pointers
+    3. heap memory, box, vec
+    4. str and String
+    5. static lifetimes
 16. mod_16: Sorting Algorithms and Algorithm Complexity
-	- bubble_sort
-	- divide and conquer with merge sort
+    1. bubble_sort
+    2. divide and conquer with merge sort
 17. mod_17: Linked Lists and Binary Trees
-    - Binary Trees
-	- Balanced Binary Tree
-	- m-arr trees
+    1. Binary Trees
+    2. Balanced Binary Tree
+    3. m-arr trees
+    4. b-tree IoT Device Implementation
