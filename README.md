@@ -38,19 +38,19 @@ Exploring Rust Core Concepts
    4. iterator adaptor: filter, map
    5. consuming adaptor: sum, max, fold
 10. mod_10:
-   1. iter()
-   2. into_iter()
-   3. iter_mut()
+    1.  iter()
+    2.  into_iter()
+    3.  iter_mut()
 11. mod_11:
-   1. idomatic rust - constructors
-   2. private struct fields
-   3. derive-new crate for constructor macro
+    1.  idomatic rust - constructors
+    2.  private struct fields
+    3.  derive-new crate for constructor macro
 12. mod_12:
-    1. json_parsing using rust
-    2. serde
-    3. serde_json
-    4. reqwest
-    5. async tokio
+    1.  json_parsing using rust
+    2.  serde
+    3.  serde_json
+    4.  reqwest
+    5.  async tokio
 13. mod_13:
     1. gRpc payments server and client using rust
 14. mod_14: Common Programming Concepts
