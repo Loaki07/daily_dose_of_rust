@@ -67,3 +67,4 @@ Exploring Rust Core Concepts
 17. mod_17: Linked Lists and Binary Trees
     - Binary Trees
 	- Balanced Binary Tree
+	- m-arr trees
