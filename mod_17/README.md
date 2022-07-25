@@ -5,6 +5,7 @@
 3. Overview of Generic Tree/N-ary/M-arr trees
 4. m-arr tree
 5. b-tree IoT Device Implementation
+6. Reading stdin inputs
 
 ```
 rustc <filename>
