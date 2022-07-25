@@ -64,8 +64,9 @@ Exploring Rust Core Concepts
 16. mod_16: Sorting Algorithms and Algorithm Complexity
     1. bubble_sort
     2. divide and conquer with merge sort
-17. mod_17: Linked Lists and Binary Trees
+17. mod_17: Linked Lists and Trees
     1. Binary Trees
     2. Balanced Binary Tree
-    3. m-arr trees
-    4. b-tree IoT Device Implementation
+    3. Overview of Generic Tree/N-ary/M-arr trees
+    4. m-arr trees
+    5. b-tree IoT Device Implementation

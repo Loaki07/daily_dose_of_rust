@@ -1,3 +1,5 @@
+# Overview of Generic Tree/N-ary/M-arr trees
+
 # Types of m-arr tree:
 1. A rooted tree is called an m-arr tree if every internal
 vertex has no more than m children.
@@ -26,3 +28,11 @@ are at levels h or h-1.
    2. if an m-arr tree of height h has l leaves, then h >= [log base m l].
    if the m-arr tree is full and balanced, then h = [log base m l].
    ([x] denotes smallest integer greater than or equal to x.)
+
+
+# Traversal of M-arr Tree
+
+1. Preorder Traversal: Visit the root node, then traverse the left subtree and finally traverse the right subtree.
+2. Inorder Traversal: Traverse the left subtree, then visit the root node and finally traverse the right subtree.
+3. Postorder Traversal: Traverse the left subtree, then traverse the right subtree and finally visit the root node.
+4. Level-order Traversal: Traverse the tree level by level.

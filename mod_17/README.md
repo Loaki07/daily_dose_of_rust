@@ -1,9 +1,10 @@
-# Linked Lists and Binary Trees
+# Linked Lists and Trees
 
 1. Binary Tree
 2. Balanced Binary Tree
-3. m-arr tree
-4. b-tree IoT Device Implementation
+3. Overview of Generic Tree/N-ary/M-arr trees
+4. m-arr tree
+5. b-tree IoT Device Implementation
 
 ```
 rustc <filename>
